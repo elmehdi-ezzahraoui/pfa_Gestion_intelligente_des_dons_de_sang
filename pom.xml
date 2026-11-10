@@ -13,6 +13,15 @@
         <module>config_service</module>
         <module>config_service</module>
         <module>gateway_service</module>
+        <module>hospital-service</module>
+        <module>stock-service</module>
+        <module>request-service</module>
+        <module>matching-alert-service</module>
+        <module>notification-service</module>
+        <module>appointment-service</module>
+        <module>chatbot-service</module>
+        <module>analytics-service</module>
+        <module>donor-service</module>
     </modules>
 
     <properties>
